@@ -75,6 +75,12 @@
 <img  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  height="40" alt="fastapi" />
 <img width="12" />
 
+<img  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg"  height="40" alt="supabase" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"  height="40" alt="firebase" />
+<img width="12" />
+
 </div>
 
 # 📊 GitHub Stats:
