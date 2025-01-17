@@ -72,6 +72,8 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" alt="matlab" />
 <img width="12" />
 
+<img  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  height="40" alt="fastapi" />
+<img width="12" />
 
 </div>
 
